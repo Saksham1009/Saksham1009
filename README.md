@@ -35,26 +35,29 @@ Find people to play with. Connects you with nearby players, lets you create even
 
 **Helm Operations**
 Software Engineer (Full Stack) · `April 2025 – Present`
+
 Came back as a full-time engineer after graduating, now owning features from design to deployment. Building and shipping across the full stack with TypeScript, C# (.NET), and MySQL/PostgreSQL — collaborating directly with product and QA to keep things scalable and maintainable.
  
 **Helm Operations**
 Software Engineer (Full Stack) · `September 2023 – March 2025`
+
 Joined back Helm part time along with studies + another coop term in summer '24. Led end-to-end design and development of 5+ production features across the platform.
  
 **Noom Inc.**
 Software Engineering Intern (iOS) · `May 2023 – Aug 2023`
+
 Moved to New York for the summer. Designed and built a custom in-house video player using AVFoundation and SwiftUI to power an exercise library with 50+ videos. Got hands-on with The Composable Architecture (TCA) and shipped features that directly improved user engagement.
  
 **Helm Operations**
 Software Engineering Intern (Full Stack) · `Sep 2022 – Apr 2023`
+
 First step into the industry. Improved filtering and data querying by integrating new parameters into the central data context using .NET framework and C#.
  
 **University of Victoria**
 BSc, Computer Science · `Sep 2021 – Apr 2025`
----
-
-Check out my blog -> (sakshamdua)[https://www.sakshamdua.dev]
 
 ---
 
-📫 Feel free to reach out (anytime!)[mailto:sakshamdua10@gmail.com]
+Check out my blog -> [sakshamdua](https://www.sakshamdua.dev)
+
+Feel free to reach out [anytime!](mailto:sakshamdua10@gmail.com)
