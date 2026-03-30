@@ -2,7 +2,7 @@
 
 Started working in the software industry in Sep '22 as an intern to now calling it my profession — I still get the same rush every time something I build actually works.
 
-Full-stack and mobile developer based in Victoria, BC. I've built production features at [Helm Operations](https://www.helmoperations.com) using TypeScript, C#, and .NET, designed an iOS video player at [Noom](https://www.noom.com) in New York, and shipped side projects that real people actually use. I love working across the entire stack — from crafting smooth mobile experiences to wiring up backends and databases.
+Full-stack and mobile developer based in **Victoria, BC, Canada**. I've built production features at [Helm Operations](https://www.helmoperations.com) using TypeScript, C#, and .NET, designed an iOS video player at [Noom](https://www.noom.com) in New York, and shipped side projects that real people actually use. I love working across the entire stack — from crafting smooth mobile experiences to wiring up backends and databases.
 
 Finding new ways to build, learn, and grow every day.
 
