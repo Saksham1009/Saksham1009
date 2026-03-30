@@ -6,6 +6,8 @@ Full-stack and mobile developer based in Victoria, BC. I've built production fea
 
 Finding new ways to build, learn, and grow every day.
 
+Check out my [blog 📝](https://www.sakshamdua.dev)
+
 ---
 
 ## 🛠 What I Work With
@@ -58,6 +60,4 @@ BSc, Computer Science · `Sep 2021 – Apr 2025`
 
 ---
 
-Check out my blog -> [sakshamdua](https://www.sakshamdua.dev)
-
-Feel free to reach out [anytime!](mailto:sakshamdua10@gmail.com)
+Feel free to reach out anytime! @ [sakshamdua10@gmail.com](mailto:sakshamdua10@gmail.com)
