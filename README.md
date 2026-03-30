@@ -8,7 +8,6 @@ Finding new ways to build, learn, and grow every day.
 
 Check out my [blog 📝](https://www.sakshamdua.dev)
 
----
 
 ## 🛠 What I Work With
 
@@ -18,7 +17,6 @@ Check out my [blog 📝](https://www.sakshamdua.dev)
 **Databases:** PostgreSQL · MySQL · MongoDB · Redis  
 **Tools:** Git · GitHub Actions · Docker
 
----
 
 ## 🚀 Projects
 
@@ -31,7 +29,6 @@ A clean note-taking app that quietly works in the background — capturing your 
 ### MatchPlay
 Find people to play with. Connects you with nearby players, lets you create events, and swipe-matches you based on sport, skill, and schedule. *(In progress)*
 
----
 
 ## 📍 Journey
 
@@ -60,4 +57,4 @@ BSc, Computer Science · `Sep 2021 – Apr 2025`
 
 ---
 
-Feel free to reach out anytime! @ [sakshamdua10@gmail.com](mailto:sakshamdua10@gmail.com)
+📥 Feel free to reach out anytime! @ [sakshamdua10@gmail.com](mailto:sakshamdua10@gmail.com)
